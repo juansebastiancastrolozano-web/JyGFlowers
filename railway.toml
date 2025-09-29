@@ -1,0 +1,5 @@
+[service]
+build.command = "echo 'Building n8n for floreria'"
+
+[deploy]
+startCommand = "n8n start"
